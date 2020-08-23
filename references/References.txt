@@ -1,0 +1,6 @@
+References
+
+1.https://www.kaggle.com/c/rossmann-store-sales/notebooks
+2.Loss functions
+3.Time series analysis
+4.https://www.kaggle.com/thie1e/exploratory-analysis-rossmann
